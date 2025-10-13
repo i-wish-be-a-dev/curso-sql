@@ -1,0 +1,1 @@
+SELECT CONCAT('Nombre: ', name,' Apellido: ', surname) FROM users

@@ -1,0 +1,1 @@
+SELECT name, init_Date AS 'Fecha de inicio en Programacion' FROM users WHERE age BETWEEN 15 AND 30

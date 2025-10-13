@@ -1,0 +1,1 @@
+-- No se puede utilizar en funciones agregadas

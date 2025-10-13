@@ -1,0 +1,5 @@
+-- CANT USUARIOS
+SELECT COUNT(*) FROM users
+
+-- CANT USUARIOS con edad
+SELECT COUNT(age) FROM users
