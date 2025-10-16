@@ -1,0 +1,1 @@
+UPDATE users SET age = 21 WHERE users_id = 8

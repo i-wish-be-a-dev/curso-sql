@@ -1,0 +1,1 @@
+INSERT INTO users (users_id, name, surname) VALUES (7, 'Maria', 'Sanz')
